@@ -12,6 +12,8 @@ body {
 .lang {
   text-align: center;
   display: inline;
+  list-style:none;
+  margin-top:10px;
 }
 #h2 {
   padding-top: 40px;
